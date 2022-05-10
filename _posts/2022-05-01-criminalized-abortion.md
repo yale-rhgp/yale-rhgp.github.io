@@ -25,7 +25,7 @@ title: “In this country during the 19th century, the vast majority of the Stat
 <p> [5] Freidenfelds, Lara. Essay. In <i>The Myth of the Perfect Pregnancy: A History of Miscarriage in America </i>, 139–41 New York, NY: Oxford University Press, 2020.</p>
 <p> [6] Mohr, James C. <i>Abortion in America</i>, 216. New York: Oxford University Press, 1978.</p>
 <p> [7] Mohr, James C. <i>Abortion in America</i>, 180. New York: Oxford University Press, 1978.</p>
-<p> [8] Dobbs v. Jackson Women’s Health Organization, 28, N.A., U.S. (2022)</p>
+<p> [8] Dobbs v. Jackson Women’s Health Organization, 28, N.A., U.S. (2022).</p>
 <p> [9] Ladd-Taylor, Molly. Essay. In <i>Fixing the Poor: Eugenic Sterilization and Child Welfare in the Twentieth Century</i>, 211–26. Johns Hopkins University Press, 2020.</p>
 <p> [10] Mohr, James C. <i>Abortion in America</i>, 156. New York: Oxford University Press, 1978.</p>
-<p> [11] Dobbs v. Jackson Women’s Health Organization, 42-43, N.A., U.S. (2022)</p>
+<p> [11] Dobbs v. Jackson Women’s Health Organization, 42-43, N.A., U.S. (2022).</p>
