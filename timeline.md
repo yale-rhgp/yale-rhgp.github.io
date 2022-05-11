@@ -25,7 +25,7 @@ titles:
   # @end locale config
 key: page-about
 ---
-hi
+<br>
 
 ### 1600s to 1800s – Abortion is legal and widely practiced
 Abortions occurred unregulated until the 1800s and were widely available to purchase from pharmacists and midwives.<sup>1</sup>
