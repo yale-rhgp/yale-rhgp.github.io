@@ -36,18 +36,31 @@ If you are considering purchasing any of these books, [Bookshop.org](bookshop.or
 - [*Medical Apartheid: The Dark History of Medical Experimentation on Black Americans from Colonial Times to the Present*](https://bookshop.org/books/medical-apartheid-the-dark-history-of-medical-experimentation-on-black-americans-from-colonial-times-to-the-present-9781799991380/9780767915472) (Washington, 2007) chronicles the history of medical experimentation on African Americans. This book covers a wide range of topics, including J. Marion Sim's  experimentatal vaginal surgery on slaves.
 - [*Fixing the Poor: Eugenic Sterilization and Child Welfare in the Twentieth Century*](https://bookshop.org/books/fixing-the-poor-eugenic-sterilization-and-child-welfare-in-the-twentieth-century/9781421437996) (Ladd-Taylor, 2020) outlines the relationship between state-sponsored social welfare as a mode of governance, characterized by the aggressive mobilization of law and legal institutions that expanded state power, and sterilization, a mode of reproductive control with myriad societal, economic, and political implications.
 - [*Laboratory of Deficiency*](https://bookshop.org/books/laboratory-of-deficiency-6-sterilization-and-confinement-in-california-1900-1950s-9780520355682/9780520355682) (Lira, 2021) considers the roles of sex, gender, race, immigration, family, socioeconomic class, and the construction and weaponization of categories of disability (social and biological) in the development of eugenics policy and sterilization abuse. 
+- [*Abortion and the Politics of Motherhood*](https://bookshop.org/books/abortion-and-the-politics-of-motherhood-3/9780520055971) (Luker, 1985) examines the fervor of the American abortion debate through interviews, tying much of present day abortion narrative to diverging views on the role of motherhood in the lives of women. 
+- [*The Myth of the Perfect Pregnancy: A History of Miscarriage in America*](https://bookshop.org/books/the-myth-of-the-perfect-pregnancy-a-history-of-miscarriage-in-america/97801908698161) (Freidenfelds, 2020) is an investigation into the history of miscarriage and the creation of the modern pregnancy ritual. It underscores that, up until the mid-20th century, miscarriages were viewed as a completely natural and necessary component of female reproductive life.
+- [*The Abortionist*](https://www.amazon.com/Abortionist-Told-Lucy-Freeman/dp/B000ITW3MQ) (Dr. X as told to Lucy Freedman, 1962) is an autobiography of anonymous Dr. X, a doctor who performed abortions for over 20 years and was later arrested and convicted for his services. The book gives detailed case reports, providing an intimate view of abortion in the illegal period. 
+- [*Defenders of the Unborn: The Pro-Life Movement before Roe v. Wade*](https://bookshop.org/books/defenders-of-the-unborn-the-pro-life-movement-before-roe-v-wade/9780190053321) (Williams, 2019) is a deep investigfation of the complex origins of the Pro-Life movement, specifically its ties to New-Deal liberalism.
+
+
 
 
 ### Historic Films and Documentaries
-- [*The Fight for Life*](http://archive.org/details/gov.archives.arc.1234) (1940) follows a young doctor working with pregnant women. This documentary depicts the experiences of pregnant women during the 1940s and highlights issues at the intersection of pregnancy, healthcare, and social class. *This film is available for free at the link in the name.*
-- [*From DANGER to DIGNITY: The Fight For Safe Abortion*](https://archive.org/details/from_danger_to_dignity) (1995) is a historic film focused on how women attempted to obtain safe abortions pre *Roe v. Wade*, as well as attempts by lawmakers to decriminalize abortions. *This film is available for free at the link in the name.*
+- [*The Fight for Life*](http://archive.org/details/gov.archives.arc.1234) (1940) follows a young doctor working with pregnant women. This documentary depicts the experiences of pregnant women during the 1940s and highlights issues at the intersection of pregnancy, healthcare, and social class. *This film is available for free at the link in the title.*
+- [*From DANGER to DIGNITY: The Fight For Safe Abortion*](https://archive.org/details/from_danger_to_dignity) (1995) is a historic film focused on how women attempted to obtain safe abortions pre *Roe v. Wade*, as well as attempts by lawmakers to decriminalize abortions. *This film is available for free at the link in the title.*
 - *Vera Drake* (2004) is about a housekeeper and illegal abortionist, and the consequences she faces after authorities discover she is providing abortions to local women. 
+- [The Silent Scream](https://www.youtube.com/watch?v=ehr5jiGUiaE) (1984) directed by Jack Duane Dabner and narrated by Dr. Bernard Nathanson, is a powerful propaganda film used by the Pro-Life movement since the 1980s. After its initial release, it was aired on prominent evangelist Jerry Falwell’s television program and sent to members of the United States senate for consideration when making abortion laws. *This film is available for free at the link in the title.*
+- [Abortion Clinic](https://www.pbs.org/wgbh/frontline/film/abortion-clinic/) (1983) features an abortion clinic in Pennsylvania and includes interviews with women with unplanned pregnancies, clinic workers, and protesters outside the clinic. *This film is available for free at the link in the title.*
+
 
 ### Recent Abortion-Related Films
-- *After Tiller* (2013) highlights the lives of three doctors - and former colleagues of Dr. George Tiller, who was murdered by a pro-life advocate - who perform third-trimester abortions. This documentary also includes stories of mothers and partners that are considering third-trimester abortions, showing the intense misfortunes and challenges that these mothers face.[Trailer](https://www.youtube.com/watch?v=xf3rETOO62s)
-- *Never Rarely Sometimes Always* (2020) features a teenage girl facing an unplanned pregnancy with the support of her cousin, as they travel to New York in pursuit of an abortion. Trigger warning: sexual assault. [Trailer](https://www.youtube.com/watch?v=hjw_QTKr2rc). 
-- *Lingui, the Sacred Bonds* (2021) tells the story of a single mother and her pregnant, 15-year old daughter living in Chad as they seek an abortion, despite legal and moral condemnation. [Trailer](https://www.youtube.com/watch?v=2DFew16WifY). 
-- *Happening* (2022) is set in 1963 and follows a young student at a crossroad between here pregnancy and studies. *Happening* is currently in theaters! [Trailer](https://www.youtube.com/watch?v=HAQVYYqj3Ro).
+- ***After Tiller*** (2013) highlights the lives of three doctors - and former colleagues of Dr. George Tiller, who was murdered by a pro-life advocate - who perform third-trimester abortions. This documentary also includes stories of mothers and partners that are considering third-trimester abortions, showing the intense misfortunes and challenges that these mothers face.[Trailer](https://www.youtube.com/watch?v=xf3rETOO62s)
+- ***Never Rarely Sometimes Always*** (2020) features a teenage girl facing an unplanned pregnancy with the support of her cousin, as they travel to New York in pursuit of an abortion. Trigger warning: sexual assault. [Trailer](https://www.youtube.com/watch?v=hjw_QTKr2rc). 
+- ***Lingui, the Sacred Bonds*** (2021) tells the story of a single mother and her pregnant, 15-year old daughter living in Chad as they seek an abortion, despite legal and moral condemnation. [Trailer](https://www.youtube.com/watch?v=2DFew16WifY). 
+- ***Happening*** (2022) is set in 1963 and follows a young student at a crossroad between here pregnancy and studies. *Happening* is currently in theaters! [Trailer](https://www.youtube.com/watch?v=HAQVYYqj3Ro).
+- ***AKA Jane Roe***  (2020) is a documentary examining the life Norma McCorvey, the real woman behind the Jane Roe moniker of *Roe vs. Wade*. [Trailer](https://www.youtube.com/watch?v=hPZGQkWi60c); available on Hulu.
+- ***Silent Choices*** (2007) by Faith Pennick is a documentary exploring how Black women, on both sides of the abortion debate, view the issue.
+- ***The Surrogate*** (2020) tells the story of a young woman who decides to serve as a surrogate for her two best friends. When a prenatal test reveals that the baby will be born with a disability, the three realize they have different opinions on what to do next. [Trailer](https://www.youtube.com/watch?v=Xpfi1mHIFPU).
+- ***Aftershock*** (2020) is a documentary that primarily investigates the maternal mortality crisis in the United States and its disproportionate consequences for Black women. This documentary also illuminates some of the ways in which increased abortion restricitons will disproportionately impact women of color. [More info](https://www.aftershockdocumentary.com/).
 
 ### Organizations and Community Resources
 The following organizations are working at the intersection of health and politics, each making extraordinary progress in its communities. The mission statements included below are directly from each organization's linked website. Please consider donating or volunteering your time to any of these organizations.
@@ -61,6 +74,7 @@ The following organizations are working at the intersection of health and politi
 
 
 ### National Abortion Funds
+- [Planned Parenthood](https://www.plannedparenthood.org/) is a national, non-profit organization providing sexual healthcare, from abortion to STI screening. Planned Parenthood is frequently targeted by the Pro-Life movement.
 - [NARAL Pro-Choice America](https://www.prochoiceamerica.org/) is a national organizaiton advocating for access to abortion care, birth control, paid parental leave, and protections from pregnancy discrimination.
 - [The National Abortion Federation](https://prochoice.org/) is a Pro-Choice organization supporting abortion providers.
 
@@ -69,7 +83,7 @@ This is a non-comprehensive list of abortion-related funds in states that are ce
 - Alabama
     - [Yellowhammer Fund, Access Reproductive Care-Southeast](https://arc-southeast.org/)
 - Arizona
-    - [https://www.abortionfundofaz.org/](https://www.abortionfundofaz.org/)
+    - [Abortion Fund of Arizona](https://www.abortionfundofaz.org/)
     - [Tuscon Abortion Support Collective](https://www.abortionintucson.org/)
 - Arkansas
     - [Arkansas Abortion Support Network](https://www.arabortionsupport.org/)
