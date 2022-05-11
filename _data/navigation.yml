@@ -53,7 +53,7 @@ header:
 
   - titles:
       # @start locale config
-      en      : &EN       History
+      en      : &EN       Timeline
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
@@ -75,7 +75,7 @@ header:
       fr-LU   : *FR
       tr      : &TR       
       # @end locale config
-    url: /history.html
+    url: /timeline.html
 
   - titles:
       # @start locale config
