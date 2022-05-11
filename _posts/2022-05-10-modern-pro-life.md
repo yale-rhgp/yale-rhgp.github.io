@@ -1,5 +1,5 @@
 ---
-title: "The Rise of the Modern Pro-Left"
+title: "The Making of the Modern Pro-Life Movement"
 author: Samantha Pohly
 ---
 
