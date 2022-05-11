@@ -52,7 +52,7 @@ Below, you can find a list of resources, including organizations to donate to, p
 
 ### National Abortion Funds
 - [NARAL Pro-Choice America](https://www.prochoiceamerica.org/) is a national organizaiton advocating for access to abortion care, birth control, paid parental leave, and protections from pregnancy discrimination.
-- [The National Abortion Federation](https://prochoice.org/) is a Pro-Choice organizaiton supporting abortion providers.
+- [The National Abortion Federation](https://prochoice.org/) is a Pro-Choice organization supporting abortion providers.
 
 ### State Abortion Funds
 - Mississippi
