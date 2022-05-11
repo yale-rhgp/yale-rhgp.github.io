@@ -29,10 +29,10 @@ Below, you can find a list of resources, including organizations to donate to, p
 ### Historic Films and Documentaries
 - [*The Fight for Life*](http://archive.org/details/gov.archives.arc.1234) (1940) follows a young doctor working with pregnant women. This documentary depicts the experiences of pregnant women during the 1940s and highlights issues at the intersection of pregnancy, healthcare, and social class. 
 - [*From DANGER to DIGNITY: The Fight For Safe Abortion*](https://archive.org/details/from_danger_to_dignity) (1995) is a historic film focused on how women attempted to obtain safe abortions pre *Roe v. Wade*, as well as attempts by lawmakers to decriminalize abortions.
-- *After Tiller* (2013)
 - *Vera Drake* (2004) is about a housekeeper and illegal abortionist, and the consequences she faces after authorities discover she is providing abortions to local women. 
 
 ### Recent Abortion-Related Films
+- *After Tiller* (2013) highlights the lives of three doctors - and former colleagues of Dr. George Tiller, who was murdered by a pro-life advocate - who perform third-trimester abortions. This documentary also includes stories of mothers and partners that are considering third-trimester abortions, showing the intense misfortunes and challenges that these mothers face.
 - *Never Rarely Sometimes Always* (2020) features a teenage girl facing an unplanned pregnancy with the support of her cousin, as they travel to New York in pursuit of an abortion. You can view the trailer [here](https://www.youtube.com/watch?v=hjw_QTKr2rc). Trigger warning: sexual assault.
 - *Lingui, the Sacred Bonds* (2021) tells the story of a single mother and her pregnant, 15-year old daughter living in Chad as they seek an abortion, despite legal and moral condemnation. You can view the trailer [here](https://www.youtube.com/watch?v=2DFew16WifY). 
 - *Happening* (2022) is set in 1963 and follows a young student at a crossroad between here pregnancy and studies. You can view the trailer [here](https://www.youtube.com/watch?v=HAQVYYqj3Ro) and find *Happening* currently in theaters! 
@@ -43,6 +43,13 @@ Below, you can find a list of resources, including organizations to donate to, p
 
 ### Organizations and Community Resources
 - [California Coalition for Reproductive Freedom](https://www.kqed.org/arts/13912860/roe-v-wade-where-to-donate-abortion-reproductive-rights-supreme-court) is a network consisting of more than 40 organizations throughout California, focused on securing reproductive health rights.
+- [SisterSong Women of Color Reproductive Justice Collective](https://www.sistersong.net/)
+- [National Black Women's Health Project](https://bwhi.org/)
+- [New Voices for Reproductive Justice](https://newvoicesrj.org/)
+- [Colorado Organization for Latina Opportunity and Reproductive Rights (COLOR)](https://www.colorlatina.org/)
+- [SisterLove](https://www.sisterlove.org/)
+- [Native Youth Sexual Health Network](https://www.nativeyouthsexualhealth.com/)
+
 
 ### National Abortion Funds
 - [NARAL Pro-Choice America](https://www.prochoiceamerica.org/) is a national organizaiton advocating for access to abortion care, birth control, paid parental leave, and protections from pregnancy discrimination.
