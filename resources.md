@@ -150,3 +150,9 @@ This is a non-comprehensive list of abortion-related funds in states that are ce
     - [Women’s Medical Fund](http://wmfwisconsin.org/)
 - Wyoming
     - [Chelsea's Fund](https://www.chelseasfund.org/)
+
+### New Haven-Based Resources
+Should the Supreme Court follow through with overturning Roe, Connecticut may become a safe haven for patients seeking abortion services and supporting local abortion clinics is more important than ever. New Haven residents and Yale students can get involved with the local Planned Parenthood by volunteering or participating in the Generation Action student advocacy program. 
+
+- [Planned Parenthood Generation Action](https://www.plannedparenthoodaction.org/communities/planned-parenthood-generation-action) is a network of young organizers and activists across Connecticut and Rhode Island who take action on their college campuses and in their communities to mobilize advocates for reproductive freedom; raise public awareness about reproductive health, rights, and justice; educate young people about sexual health; and create lasting change in those communities.
+- Become a Welcome Crew Volunteer with Planned Parenthood of Southern New England’s New Haven center. Welcome Crew members offer navigational and emotional support to patients entering the health center.
