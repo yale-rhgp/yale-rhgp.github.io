@@ -72,7 +72,7 @@ key: page-about
 <p style="text-indent: 25px;"> It is time to heed the Constitution and return the issue of abortion to the people's elected representatives. “The permissibility of abortion, and the limitations, upon it, are to be resolved like most important questions in our democracy: by citizens trying trying to persuade one another and then voting.” Casey, 505 U.S. at 979 (Scalia, J, concurring in the judgment in part and dissenting in part). That is what the Constitution and the rule of law demand.  </p>
 
 <br>
-<p> I </p>
+<p style="text-align:center"> I </p>
 
 <p style="text-indent: 25px;">The law at issue in this case, Mississippi's Gestational Age Act, see Miss. Code Ann. §41-41-191, contains this central provision: “Except in a medical emergency or in the case o fa severe fetal abnormality, a person shall not inten- tionally or knowingly perform or induce an abortion of an unborn human beingifthe probable gestational ageof the unborn human being has been determined to be greater than fifteen (15) weeks.” §4(b). </p>
 
@@ -91,7 +91,7 @@ key: page-about
 <p style="text-indent: 25px;">We granted certiorari to resolve the question whether “all pre-viability prohibitions on elective abortions are unconstitutional.” Pet. for Cert. at i. Petitioners’ primary defense of the Mississippi Gestational Age Act is that Roe and Casey ‘were wrongly decided and that ‘the Act is constitutional because it satisfies rational-basis review.” Brieffor Petitioners 49. Respondents answer that allowing Mississippi to ban pre-viability abortions “would be no different than overruling Casey and Roe entirely.” Brief for Respondents 43. They tell us that “no half measures” are available: we must either reaffirm or overrule Roe and Casey. Id., at 50.</p>
 
 <br>
-<p> II </p>
+<p style="text-align:center"> II </p>
 
 <p style="text-indent: 25px;">We begin by considering the critical question whether the Constitution, properly understood, confers a right to obtain an abortion. Skipping over that question, the controlling opinion in Casey reaffirmed Roe's “central holding” based solely on the doctrine of stare decisis, but as we will explain, ‘proper application of stare decisis required an assessment of the strength of the grounds on which Roe was based. See infra, at_~_. </p>
 
@@ -99,8 +99,8 @@ key: page-about
 
 <b>Page 9</b>
 <br>
-<p> A </p>
-<p> 1 </p>
+<p style="text-align:center"> A </p>
+<p style="text-align:center"> 1 </p>
 
 <p style="text-indent: 25px;">Constitutional analysis must begin with “the language of the instrument,” Gibbons v. Ogden, 9 Wheat. 1, 186-189 (1824), which offers a “fixed standard” for ascertaining what our founding document means, J. Story, Commentaries on the Constitution §399 (1833). The Constitution makes no express reference to a right toobtain an abortion, and therefore those who claim that it protects such a right must show that the right is somehow implicit in the constitutional text. </p>
 
@@ -120,7 +120,7 @@ key: page-about
 <p style="text-indent: 25px;">With this new theory addressed, we turn to Casey's bold ‘assertion that the abortion right is an aspect of the “liberty” protected by the Due Process Clause of the Fourteenth Amendment, 505 U. S, at 846; Brief For Respondents 17; Brief for United States as Amicus Curiae 21-22.</p>
 
 <br>
-<p> 2 </p>
+<p style="text-align:center"> 2 </p>
 
 <p style="text-indent: 25px;">The underlying theory on which this argument rests— that the Fourteenth Amendment's Due Process Clause provides substantive, as well as procedural, protection for “liberty”—has long been controversial. But our decisions have held that the Due Process Clause protects two categories of substantive rights. The first consists of rights guaranteed by the first eight amendments. Those amendments originally applied only to the federal government, Barron ex rel. Tiernan v. Mayor of Baltimore, T Pet. 243, 247-251 (1833) (opinion of Marshall, C.J), but this Court has held that the Due Process Clause of the Fourteenth Amendment “incorporates” the great majority of those rights and thus makes them equally applicable to the States. See McDonald, 561 U.S, at 763-767 & nn. 12-13. The second category—which is the one in ques- tion here—comprises a select list of fundamental rights that are not mentioned anywhere in the Constitution. </p>
 
@@ -152,8 +152,8 @@ key: page-about
 
 <b>Page 15</b>
 <br>
-<p> B </p>
-<p> 1 </p>
+<p style="text-align:center"> B </p>
+<p style="text-align:center"> 1 </p>
 
 <p style="text-indent: 25px;">Until the latter part of the 20th century, there was no support in American law for a constitutional right to obtain an abortion. Zero. None. No state constitutional provision had recognized such a right. Until a few years before Roe was handed down, no federal or state court had recognized such a right. Nor had any scholarly treatise of which we are aware. And although law review articles are not reticent about advocating new rights, the earliest article proposing a constitutional right to abortion that has come to our attention was published only a few years before Roe. </p>
 
@@ -164,8 +164,8 @@ key: page-about
 <p style="text-indent: 25px;">Roe either ignored or misstated this history, and Casey declined to reconsider Roe faulty historical analysis. It is therefore important to set the record straight.</p>
 
 <br>
-<p> 2 </p>
-<p> i </p>
+<p style="text-align:center"> 2 </p>
+<p style="text-align:center"> i </p>
 
 <p style="text-indent: 25px;">We begin with the common law, under which abortion was a crime at least after “quickening’—i.e., the first felt movement of the fetus in the womb, which usually occurs between the 16th and 18th week of pregnancy. </p>
 
@@ -189,7 +189,7 @@ key: page-about
 <p style="text-indent: 25px;">In sum, although common law authorities differed on the severity of punishment for abortions committed at different points in pregnancy, none endorsed the practice. Moreover, we are aware of no common law case or authority, and the parties have not pointed to any, that remotely suggests a positive right to procure an abortion at any stage of pregnancy.</p>
 
 <br>
-<p> ii </p>
+<p style="text-align:center"> ii </p>
 
 <p style="text-indent: 25px;">In this country, the historical record is similar. The ‘most important early American edition of Blackstone's Commentaries,” District of Columbia v. Heller, 554 U. S. 510, 594 (2008), reported Blackstone's statement that abortion of a </p>
 
@@ -201,7 +201,7 @@ key: page-about
 <b>Page 21</b>
 <p>for example, an indictment charged that a man “Murtherously endeavoured to destroy or Murther the Child by him begotten in the Womb." Proprietary v. Mitchell, 10 Md. Archives 183 (WIL Browne, ed., 1891). And by the 19th century, courts frequently explained that the common law made abortion of a quick child a crime. See, e.g., Smith v. Gaffard, 31 Ala. 45, 51 (1857);  Smith v. State, 33 Me. 48, 55 (1851); State v. Cooper, N. J. L. 52, 52-55 (1849); Commonwealth v. Parker, 50 Mass. 263, 264-268 (1845).</p>
 <br>
-<p>iii</p>
+<p style="text-align:center">iii</p>
 <p style="text-indent: 25px;">The original ground for drawing a distinction between pre- and post-quickening abortions is not entirely clear,but some have attributed the rule to the difficulty of proving that pre-quickening fetus was alive. At that time, there were no scientific methods for detecting pregnancy in its early stages, and thus, as one court put it in 1872: “[Until the period of quickening there is no evidence of life; and whatever may be said of the feotus, the law has fixed upon this period of gestation as the time when the child is endowed with life” because “foetal movements are the first clearly marked and well defined evidences of life” Evans v. People, 49 N.Y. 86, 90 (1872) (emphasis added); State v. Cooper, 22 N. J. L: 52, 56 (1849) (“In contemplation of law life commences at the moment of quickening, at the moment when the embryo gives the first physical proof of life, no matter when it first received it.” (emphasis added).</p>
 <p style="text-indent: 25px;">  The Solicitor General offers a different explanation of the basis for the quickening rule, namely, that before quickening the common law did not regard a fetus “as having a ‘separate and independent existence.” Brief for United States</p>
 <b>Page 22</b>
@@ -215,12 +215,12 @@ key: page-about
 <p>Court's own count, statutes in all but four States and the District of Columbia prohibited abortion “however and whenever performed, unless done to save or preserve the life of the mother” 410 U.S, at 139.5</p>
 <p style="text-indent: 25px;">This overwhelming consensus endured until the day Roe was decided. At that time, also by the Roe Court's own count, a substantial majority—30 States—still prohibited abortion at all stages except to save the life of the mother. See Roe, 410 U.S, at 118 & n.2 (listing States). And though Roe discerned a “trend toward liberalization” in about “one-third of the States,” those States still criminalized some abortions and regulated them more stringently than Roe would allow. See Roe, 410 U.S. at 110 & n.37; Tribe 2. In short, the “Court's opinion inRoe itself convincingly refutes the notion that the abortion iiberty isdeeply rooted in the history or tradition of our people.” Thornburgh, 476 U.S., at 793 (White, J., dissenting).</p>
 <br>
-<p>iv</p>
+<p style="text-align:center">iv</p>
 <p style="text-indent: 25px;">The inescapable conclusion is that a right to abortion is not deeply rooted in the Nation's history and traditions. On the contrary, an unbroken tradition of prohibiting abortion on pain of criminal punishment persisted from the earliest</p>
 <b>Page 25</b>
 <p>days of the common law until 1973. The Court in Roe could have said of abortion exactly what Glucksberg said of assisted suicide: “Attitudes toward [abortion] have changed since Bracton, but our laws have consistently condemned, and continue to prohibit, [that practice].” Glucksberg, 521 U.S, at 719.</p>
 <br>
-<p>3</p>
+<p style="text-align:center">3</p>
 <p style="text-indent: 25px;">Respondents And their amici have no persuasive answer to this historical evidence. </p>
 <p style="text-indent: 25px;">Neither respondents nor the Solicitor General disputes the fact that by 1868thevastmajorityof States criminalized abortion at all stages of pregnancy. See Brief for the Petitioners 12-13; see also Brief for American Historical Association and Organization of American Historians as Amicus Curiae 27-28 & nn.14-15 (conceding that 26 out of 37 States prohibited abortion before quickening); Oral Arg. Tr. 74-75 (respondents counsel conceding the same). In-stead, respondents are forced to argue that it “does [not] matter that some States prohibited abortion at the time Roe was decided or when the Fourteenth Amendment was adopted.” Brief for Respondents 21. But that argument flies in the face of the standard we have applied in determining whether an asserted right that is nowhere mentioned in the Constitution is nevertheless protected by the Fourteenth Amendment. </p>
 <p style="text-indent: 25px;">Not only are respondents and their amici unable to show that a constitutional right to abortion was established when the Fourteenth Amendment was adopted, but they have found no support for the existence of an abortion right that predates the latter part of the 20th century—no state constitutional provision, no statute, no judicial decision, no learned treatise. The earliest source called to our attention are a few district court and state court decisions decided shortly before Roe and a small number of law review</p>
@@ -244,7 +244,7 @@ key: page-about
 <b>Page 30</b>
 <p>motive.</p>
 <br>
-<p>C</p>
-<p>1</p>
+<p style="text-align:center">C</p>
+<p style="text-align:center">1</p>
 <p style="text-indent: 25px;"> Instead of seriously pressing the argument that the abortion right itself has deep roots, supporters of Roe and Casey contend that the abortion right is an integral part of a broader entrenched right. Roe termed this a right to privacy, 410 U.S, at 164, and Casey described it as the freedom to make “intimate and personal choices'' that are “central to personal dignity and autonomy,” 505 U.S, at 851. Casey elaborated: “At the heart of liberty is the right to define one's own concept of existence, of meaning, of the universe, and of the mystery of human life.” Id., at 851.</p>
 <p style="text-indent: 25px;">The Court did not claim that this broadly framed right is absolute, and no such claim would be plausible. While individuals are certainly free to think and to say what they wish about “existence,” “meaning,”the “universe,”and“the mystery of human life,” they are not always free to act in accordance with those thoughts. License to act on the basis of such beliefs may correspond to one of the many understandings of “liberty,” but it is certainly not “ordered liberty.”</p>
