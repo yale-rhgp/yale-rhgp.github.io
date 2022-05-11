@@ -3,7 +3,7 @@ default:
   highlight_theme: default
   lang: en
   paths:
-    root: /
+    root: /about.html
     home: /
     writing: /
     archive:  /archive.html

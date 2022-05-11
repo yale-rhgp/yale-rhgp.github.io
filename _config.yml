@@ -22,7 +22,6 @@ url     : # the base hostname & protocol for your site e.g. https://www.someone.
 baseurl : # does not include hostname
 title   : Reproductive Health, Gender, & Power
 description: > # this means to ignore newlines until "Language & timezone"
-  Your Site Description
 
 
 ## => Language and Timezone
@@ -62,8 +61,8 @@ repository_tree: master
 ## => Paths
 ##############################
 paths:
-  root    : # title link url, "/" (default)
-  home    : # home layout url, "/" (default)
+  root    : /about.html # title link url, "/" (default)
+  home    : /about.html # home layout url, "/" (default)
   archive : # "/archive.html" (default)
   writing : # "/writing.html" (default)
   rss     : # "/feed.xml" (default)
