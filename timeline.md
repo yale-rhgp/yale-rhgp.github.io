@@ -2,7 +2,7 @@
 layout: article
 titles:
   # @start locale config
-  en      : &EN       Timeline of Abortion Law in the United States
+  en      : &EN        Timeline of Abortion Law in the United States
   en-GB   : *EN
   en-US   : *EN
   en-CA   : *EN
