@@ -32,7 +32,7 @@ After hearing disturbing news of the leaked SCOTUS draft, we felt moved to take 
 
 Under the <b>SCOTUS Draft</b> page, you can read the draft with linked analyses offering historic context and highlighting Alito's inaccuracies and fallacies.
 
-On the <b>History Timeline</b> page, you can find a historic timeline of events related to reproductive health and abortion politics.
+On the <b>History Timeline</b> page, you can find a historic timeline of ederal abortion policy and laws.
 
 In the <b>Visual Archive</b> gallery, you can find an archive of the Roe-era abortion debate, 1970 to the present, including protest materials, logos, merchandise, and newspaper clippings intended for display in public space, created by individuals or collegiate, local, and national organizations. We analyze the terms and visual language used and reference key legislation, historical events, and organizations.
 
