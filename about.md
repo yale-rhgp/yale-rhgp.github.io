@@ -36,4 +36,6 @@ On the <b>History Timeline</b> page, you can find a historic timeline of events 
 
 In the <b>Visual Archive</b> gallery, you can find an archive of the Roe-era abortion debate, 1970 to the present, including protest materials, logos, merchandise, and newspaper clippings intended for display in public space, created by individuals or collegiate, local, and national organizations. We analyze the terms and visual language used and reference key legislation, historical events, and organizations.
 
+The <b>Resources<page> is a non-comprehensive repository of suggested resources for further learning on reproductive health and politics, leading organizations in this field, and abortion-related funds in states where womxn are at severe risk of losing access to abortion.
+
 

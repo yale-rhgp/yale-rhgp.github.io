@@ -62,7 +62,7 @@ The following organizations are working at the intersection of health and politi
 - [The National Abortion Federation](https://prochoice.org/) is a Pro-Choice organization supporting abortion providers.
 
 ### State Abortion Funds
-This is a non-comprehensive list of abortion-related funds in states that are certain to ban abortion, likely to ban abortion, or at risk of banning abortion before fetal viability, if the supreme court decides to overturn *Roe v. Wade*.
+This is a non-comprehensive list of abortion-related funds in states that are certain to ban abortion, likely to ban abortion, or at risk of banning abortion before fetal viability, if the Supreme Court decides to overturn *Roe v. Wade*.
 - Alabama
     - [Yellowhammer Fund, Access Reproductive Care-Southeast](https://arc-southeast.org/)
 - Arizona
