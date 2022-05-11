@@ -38,4 +38,5 @@ In the <b>Visual Archive</b> gallery, you can find an archive of the Roe-era abo
 
 The <b>Resources<page> is a non-comprehensive repository of suggested resources for further learning on reproductive health and politics, leading organizations in this field, and abortion-related funds in states where womxn are at severe risk of losing access to abortion.
 
+You can contact us at yale-rhgp@gmail.com.
 
