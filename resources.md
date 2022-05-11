@@ -42,7 +42,6 @@ Below, you can find a list of resources, including organizations to donate to, p
 - 
 
 ### Organizations and Community Resources
-- [California Coalition for Reproductive Freedom](https://www.kqed.org/arts/13912860/roe-v-wade-where-to-donate-abortion-reproductive-rights-supreme-court) is a network consisting of more than 40 organizations throughout California, focused on securing reproductive health rights.
 - [SisterSong Women of Color Reproductive Justice Collective](https://www.sistersong.net/)
 - [National Black Women's Health Project](https://bwhi.org/)
 - [New Voices for Reproductive Justice](https://newvoicesrj.org/)
